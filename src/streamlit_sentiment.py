@@ -11,7 +11,7 @@ st.set_page_config(page_title="Sentiment Analysis System", page_icon=":shopping_
 
 menu = ["Project Summary", "Sentiment Analysis", "Product Analysis", ]
 
-
+# note:
 # Banner Image
 image = Image.open("src/images/hasaki_banner.jpg")
 st.image(image)
